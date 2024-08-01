@@ -44,7 +44,7 @@
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "chart.js": "2.9.4",
-    "electron-log": "^5.1.2",
+    "electron-log": "^5.1.7",
     "electron-updater": "^6.1.8",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1"
